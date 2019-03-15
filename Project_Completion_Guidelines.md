@@ -1,7 +1,7 @@
 
 # Project completion guidelines
 
-In the Zipkin Lab, we strive to make our work as transparent and reproducible as possible. The following is a checklist with all information that should be included upon completion of a project (i.e., publication of a paper). This document is intended to serve as a guideline, covering the necessary components of most projects (but may vary slightly from project to project). It is preferable, and probably easier, to keep these requirements in mind throughout project development and upload documents as they become available, but all elements should be present at project wrap-up. 
+In the Beaudrot Lab, we strive to make our work as transparent and reproducible as possible. The following is a checklist with all information that should be included upon completion of a project (i.e., publication of a paper). This document is intended to serve as a guideline, covering the necessary components of most projects (but may vary slightly from project to project). It is preferable, and probably easier, to keep these requirements in mind throughout project development and upload documents as they become available, but all elements should be present at project wrap-up. 
 
 
 
